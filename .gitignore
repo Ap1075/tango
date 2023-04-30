@@ -1,0 +1,3 @@
+*.pdf
+*.png
+audioldm/clap/open_clip/bpe_simple_vocab_16e6.txt.gz
