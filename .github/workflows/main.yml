@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://AP1075:$HF_TOKEN@huggingface.co/spaces/AP1075/tango master
+        run: git push --force https://AP1075:$HF_TOKEN@huggingface.co/spaces/AP1075/tango master:main
